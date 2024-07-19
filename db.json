@@ -1,7 +1,7 @@
 {
   "PRODUCTS": [
     {
-      "name": "Brakepads",
+      "name": "Brakpads",
       "quantity": 12,
       "id": "a40f"
     },
@@ -35,19 +35,12 @@
       "name": "Brake rubbers",
       "quantity": 10
     },
-    {
-      "id": "55d2",
-      "name": "CV joint",
-      "quantity": 20
-    },
+   
     {
       "id": "c5fa",
       "name": "Brake fluid",
       "quantity": 12
-    },
-    {
-      "id": "f379",
-      "name": "Balljoint",
+    }
       "quantity": 12
     }
   ]
