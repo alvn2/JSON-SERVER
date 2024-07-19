@@ -1,54 +1,52 @@
-{
-  "PRODUCTS": [
-    {
-      "name": "Brakepads",
-      "quantity": 12,
-      "id": "a40f"
-    },
-    {
-      "id": "0184",
-      "name": "Bearings",
-      "quantity": 10
-    },
-    {
-      "id": "01a1",
-      "name": "Fanbelts",
-      "quantity": 12
-    },
-    {
-      "id": "01a2",
-      "name": "Brake Linings",
-      "quantity": 12
-    },
-    {
-      "id": "01a3",
-      "name": "Airfilters",
-      "quantity": 12
-    },
-    {
-      "id": "c80a",
-      "name": "COILS",
-      "quantity": 12
-    },
-    {
-      "id": "e0e3",
-      "name": "Brake rubbers",
-      "quantity": 10
-    },
-    {
-      "id": "55d2",
-      "name": "CV joint",
-      "quantity": 20
-    },
-    {
-      "id": "c5fa",
-      "name": "Brake fluid",
-      "quantity": 12
-    },
-    {
-      "id": "f379",
-      "name": "Balljoint",
-      "quantity": 12
-    }
-  ]
-}
+[
+  {
+    "name": "Brakepads",
+    "quantity": 12,
+    "id": "a40f"
+  },
+  {
+    "id": "0184",
+    "name": "Bearings",
+    "quantity": 10
+  },
+  {
+    "id": "01a1",
+    "name": "Fanbelts",
+    "quantity": 12
+  },
+  {
+    "id": "01a2",
+    "name": "Brake Linings",
+    "quantity": 12
+  },
+  {
+    "id": "01a3",
+    "name": "Airfilters",
+    "quantity": 12
+  },
+  {
+    "id": "c80a",
+    "name": "COILS",
+    "quantity": 12
+  },
+  {
+    "id": "e0e3",
+    "name": "Brake rubbers",
+    "quantity": 10
+  },
+  {
+    "id": "55d2",
+    "name": "CV joint",
+    "quantity": 20
+  },
+  {
+    "id": "c5fa",
+    "name": "Brake fluid",
+    "quantity": 12
+  },
+  {
+    "id": "f379",
+    "name": "Balljoint",
+    "quantity": 12
+  }
+]
