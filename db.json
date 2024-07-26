@@ -1,52 +1,74 @@
-[
-  {
-    "name": "Brakepads",
-    "quantity": 12,
-    "id": "a40f"
-  },
-  {
-    "id": "0184",
-    "name": "Bearings",
-    "quantity": 10
-  },
-  {
-    "id": "01a1",
-    "name": "Fanbelts",
-    "quantity": 12
-  },
-  {
-    "id": "01a2",
-    "name": "Brake Linings",
-    "quantity": 12
-  },
-  {
-    "id": "01a3",
-    "name": "Airfilters",
-    "quantity": 12
-  },
-  {
-    "id": "c80a",
-    "name": "COILS",
-    "quantity": 12
-  },
-  {
-    "id": "e0e3",
-    "name": "Brake rubbers",
-    "quantity": 10
-  },
-  {
-    "id": "55d2",
-    "name": "CV joint",
-    "quantity": 20
-  },
-  {
-    "id": "c5fa",
-    "name": "Brake fluid",
-    "quantity": 12
-  },
-  {
-    "id": "f379",
-    "name": "Balljoint",
-    "quantity": 12
-  }
-]
+{
+  "PRODUCTS": [
+    {
+      "id": "a40f",
+      "name": "Brakepads",
+      "quantity": 12,
+      "buyingPrice": 300,
+      "sellingPrice": 450
+    },
+    {
+      "id": "0184",
+      "name": "Bearings",
+      "quantity": 10,
+      "buyingPrice": 150,
+      "sellingPrice": 250
+    },
+    {
+      "id": "01a1",
+      "name": "Fanbelts",
+      "quantity": 12,
+      "buyingPrice": 200,
+      "sellingPrice": 350
+    },
+    {
+      "id": "01a2",
+      "name": "Brake Linings",
+      "quantity": 12,
+      "buyingPrice": 250,
+      "sellingPrice": 400
+    },
+    {
+      "id": "01a3",
+      "name": "Airfilters",
+      "quantity": 12,
+      "buyingPrice": 100,
+      "sellingPrice": 200
+    },
+    {
+      "id": "c80a",
+      "name": "COILS",
+      "quantity": 12,
+      "buyingPrice": 500,
+      "sellingPrice": 750
+    },
+    {
+      "id": "e0e3",
+      "name": "Brake rubbers",
+      "quantity": 10,
+      "buyingPrice": 50,
+      "sellingPrice": 100
+    },
+    {
+      "id": "55d2",
+      "name": "CV joint",
+      "quantity": 20,
+      "buyingPrice": 600,
+      "sellingPrice": 900
+    },
+    {
+      "id": "c5fa",
+      "name": "Brake fluid",
+      "quantity": 12,
+      "buyingPrice": 80,
+      "sellingPrice": 120
+    },
+    {
+      "id": "f379",
+      "name": "Balljoint",
+      "quantity": 12,
+      "buyingPrice": 400,
+      "sellingPrice": 600
+    }
+  ]
+}
